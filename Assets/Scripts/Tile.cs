@@ -10,8 +10,8 @@ public class Tile : ITile
         kWall = 1,
         kExit = 2,
 		kHumanExit = 3,
-        kBlockHole = 4,
-        kBlockOnly = 5,
+        kBlockHole = 4, //empty tile
+        kBlockOnly = 5, //yellow haze
 
         kPushUp = 10,
         kPushRight = 11,
